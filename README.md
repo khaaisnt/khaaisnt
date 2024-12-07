@@ -17,3 +17,6 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaaisnt&" alt="khaaisnt" /></p>
 </div>
+
+### Listening Spotify
+[![Play Spotify](https://panntod-spotify-readme.vercel.app/api)]([https://open.spotify.com/user/31td447ye2yexn3kggm57cy7jpaa](https://open.spotify.com/user/gc39l2ei4wr37q66svtik12zy?si=8012615f92a244dc))
