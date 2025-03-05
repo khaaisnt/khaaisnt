@@ -13,7 +13,3 @@
 <div align="center" style="margin-top: 5px;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaaisnt&show_icons=true&locale=en&layout=compact" alt="khaaisnt" /></p>
 </div>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaaisnt&" alt="khaaisnt" /></p>
-</div>
