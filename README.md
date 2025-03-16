@@ -8,4 +8,4 @@
 💬 I like to talk about Web Development
 
 <h3 align="left">Languages and Tools:</h3>
-[![Skills](https://skillicons.dev/icons?i=html,css,java,py,js,ts,react,nextjs,mysql,php,postgres,mongodb&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
