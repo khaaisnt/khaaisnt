@@ -9,4 +9,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,react,nextjs,mysql,php&perline=13)](#)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,mysql,tailwind,figma&perline=13)](#)
