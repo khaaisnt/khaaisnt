@@ -7,6 +7,6 @@
 
 💬 I like to talk about Web Development
 
-## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" height="30" /> **Programming Languages & Tools**  
+<h3>Programming Languages & Tools</h3>
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,mysql,tailwind,figma&perline=13)](#)
