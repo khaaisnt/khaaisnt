@@ -7,6 +7,10 @@
 
 💬 I like to talk about Web Development
 
-<h3>Programming Languages & Tools</h3>
+<h3>Programming Languages</h3>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,mysql,tailwind,figma&perline=13)](#)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,express,mysql,tailwind,bootstrap&perline=13)](#)
+
+<h3>Tools</h3>
+
+[![Skills](https://skillicons.dev/icons?i=figma,postman,git,github&perline=13)](#)
