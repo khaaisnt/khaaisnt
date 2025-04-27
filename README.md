@@ -7,7 +7,7 @@
 
 💬 I like to talk about Web Development
 
-<h3>Programming Languages</h3>
+<h3>Programming Languages & Framework</h3>
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,express,mysql,tailwind,bootstrap&perline=13)](#)
 
