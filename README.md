@@ -9,8 +9,8 @@
 
 <h3>Programming Languages & Framework</h3>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,express,mysql,tailwind,bootstrap&perline=13)](#)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,vite,nodejs,express,mysql,tailwind,bootstrap&perline=13)](#)
 
 <h3>Tools</h3>
 
-[![Skills](https://skillicons.dev/icons?i=figma,postman,git,github&perline=13)](#)
+[![Skills](https://skillicons.dev/icons?i=figma,postman,vscode,git,github&perline=13)](#)
